@@ -1,0 +1,12 @@
+#button-contact {
+    background-color: rgb(128,103,179);
+    border-radius: 12px;
+    padding: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+#button-contact:hover {
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+}

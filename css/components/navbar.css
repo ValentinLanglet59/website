@@ -1,0 +1,29 @@
+.navbar-wrapper {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+#navbar-name-wrapper {
+    padding: 12px 0px 12px 12px;
+}
+
+#navbar-links-wrapper {
+    padding: 12px 12px 12px 0px;
+}
+
+#navbar-links-wrapper a {
+    padding-left: 10px;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+#navbar-languages {
+    color: black;
+    font-weight: bolder;
+}
+
+#navbar-projects {
+    color: black;
+    font-weight: bolder;
+}
