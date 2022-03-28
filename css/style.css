@@ -1,10 +1,12 @@
 @import url("components/navbar.css");
 @import url("components/button.css");
+@import url('components/avatar.css');
+@import url('components/images.css');
+
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: rgb(128,103,179);
 }
 

@@ -1,0 +1,10 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 125px;
+}
+
+#main-img {
+    width: 50%;
+}

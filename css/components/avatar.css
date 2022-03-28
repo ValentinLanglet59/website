@@ -1,0 +1,49 @@
+#main-avatar {
+    max-width: 80px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.main-avatar-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 30px;
+}
+
+.main-avatar-wrapper h1 {
+    padding: 20px 0px 8px 0px;
+}
+
+#avatar-description {
+    color: rgb(128,103,179);
+}
+
+.avatar-name {
+    color:rgb(128,103,179);
+}
+
+#avatar-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#avatar-icons img {
+    height: 20px;
+    padding-left: 10px;
+}
+
+
+#main-avatar-wrapper p {
+    text-align: center;
+}
+
+#avatar-desc {
+    max-width: 400px;
+    line-height: 1.25;
+    font-size: 16px;
+    text-align: center;
+    }

@@ -8,6 +8,10 @@
     padding: 12px 0px 12px 12px;
 }
 
+#navbar-name-wrapper h1 {
+    color: rgb(128,103,179);
+}
+
 #navbar-links-wrapper {
     padding: 12px 12px 12px 0px;
 }
