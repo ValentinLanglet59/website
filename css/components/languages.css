@@ -1,0 +1,31 @@
+#languages-title {
+    color: rgb(128,103,179);
+}
+
+.languages-container {
+    text-align: center;
+    background-color:rgb(213,212,213);
+    margin-top: 60px;
+}
+
+.languages-container h3 {
+    padding: 15px 0px 15px 0px;
+    font-size: 24px;
+}
+
+#languages-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 45px 45px;
+}
+
+#languages-wrapper img {
+    max-width: 60px;
+    
+}
+
+#languages-wrapper img:hover {
+    transform: scale(0.9);
+   
+}

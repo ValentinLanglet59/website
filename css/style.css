@@ -2,7 +2,7 @@
 @import url("components/button.css");
 @import url('components/avatar.css');
 @import url('components/images.css');
-
+@import url('components/languages.css');
 
 * {
     margin: 0;
