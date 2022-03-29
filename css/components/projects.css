@@ -1,0 +1,36 @@
+#project-span {
+    color:rgb(128,103,179);
+}
+
+main h3 {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 25px;
+}
+
+.project-wrapper {
+    border-radius: 6px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+}
+
+#project-img {
+    width: 100%;
+    max-width: 200px;
+}
+
+#projects-container {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.project {
+    list-style: none;
+}
+
+.project-main-container {
+    padding: 25px 0px 25px 0px;
+}

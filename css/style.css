@@ -3,6 +3,8 @@
 @import url('components/avatar.css');
 @import url('components/images.css');
 @import url('components/languages.css');
+@import url('components/projects.css');
+
 
 * {
     margin: 0;
