@@ -4,7 +4,7 @@
 @import url('components/images.css');
 @import url('components/languages.css');
 @import url('components/projects.css');
-
+@import url('components/footer.css');
 
 * {
     margin: 0;

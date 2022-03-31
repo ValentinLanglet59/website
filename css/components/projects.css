@@ -81,12 +81,22 @@ main h3 {
 .project-description-para {
     font-size: 12px;
     line-height: 1.25;
+    color: white;
 }
 
 .project-description-subtitle {
     padding-bottom: 4px;
+    color: white;
 }
 
 .project:hover .project-description {
     opacity: 1;
+}
+
+#project-description-title-span {
+    color: rgb(254,213,0);
+}
+
+#project-description-title--span {
+    color : rgb(0,91,186);
 }

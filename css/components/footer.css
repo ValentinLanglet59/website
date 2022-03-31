@@ -1,0 +1,19 @@
+.footer-links-wrapper ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.footer-wrapper {
+    background-color: rgb(63, 57, 57);
+    padding: 50px 50px;
+}
+.footer-links-wrapper li, a {
+    padding-left: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
