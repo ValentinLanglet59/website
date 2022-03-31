@@ -12,3 +12,21 @@
     box-sizing: border-box;
 }
 
+@media(max-width: 480px) {
+    #navbar-languages {
+        display: none;
+    }
+    
+    .avatar--name, .avatar-name {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    #avatar-desc {
+        font-size: 14px;
+    }
+
+    .project-wrapper {
+        margin: 0px 15px 0px 15px;
+    }
+}
