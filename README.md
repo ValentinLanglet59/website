@@ -5,6 +5,8 @@
 
 A little video of the portfolio => 
 
+![2022-05-29 19 34 52](https://user-images.githubusercontent.com/102190834/170883831-9ffe3466-7d40-40a7-94ba-44b5e10e551d.gif)
+
 
 ## Features
 
